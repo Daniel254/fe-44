@@ -1,0 +1,20 @@
+.header {
+  /* background: linear-gradient(
+    33.73deg,
+    rgba(36, 34, 31, 0) 26.36%,
+    #1c2127 99.35%
+  ); */
+  margin-bottom: 40px;
+  padding: 20px 0;
+}
+
+.link {
+  text-decoration: none;
+  background: linear-gradient(132.83deg, #f1dec2 28.13%, #b49b75 71.15%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+  font-size: 22px;
+  margin-right: 20px;
+}

@@ -1,0 +1,4 @@
+@baseUrl = http://hn.algolia.com/api/v1
+
+GET {{baseUrl}}/search?query=sport
+  Content-type: application/json

@@ -1,0 +1,14 @@
+.article {
+  background: linear-gradient(
+    33.73deg,
+    rgba(36, 34, 31, 0) 26.36%,
+    #1c2127 99.35%
+  );
+  padding: 15px;
+  margin-bottom: 20px;
+}
+
+.title {
+  color: #c0a775;
+  font-size: 30px;
+}
